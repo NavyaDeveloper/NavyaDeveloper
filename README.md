@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @NavyaDeveloper
-- 👀 I’m interested in Java.
-- 🌱 I’m currently learning nodejs.
+- 👋 Hi, I’m Navya
+- 🌱 I’m currently learning Java.
+- 👀 I’m familiar in PHP, Web Development, JS.
 
 <!---
 NavyaDeveloper/NavyaDeveloper is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
